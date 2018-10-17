@@ -50,3 +50,30 @@ git checkout -b nombreRama (crea nueva rama)
 
 git checkout nombreRama (cambia a la rama indicada)
 
+## 13) git remote 
+git remote -v (listar los repositorios remotos)
+
+## 14) git branch
+git branch (listar todas las ramas existentes en el repositorio)
+
+git branch -d nombreRama (borrar la rama indicada)
+
+## 15) git merge
+git merge nombreRama (fusiona la rama indicada con la rama activa)
+
+## 16) git diff
+git diff --base NombreFichero.ext (lista de conflictos del fichero indicado)
+
+git diff sourceBranch targetBranch (conflictos entre las ramas indicadas que están por fusionar)
+
+git diff (lista de todos los conflictos presentes en el repositorio)
+
+## 17) git tag
+git tag 1.1.0 etiquetaCommit (poner etiqueta al commit indicado)
+
+## 18) git log
+git log (visualizar el histórico completo de commits)
+
+## 19) git reset
+git reset --hard HEAD (resetea todos los cambios locales del directorio de trabajo)
+
