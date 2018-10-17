@@ -1,4 +1,4 @@
-# Principales comandos Git
+# Principales comandos GIT
 ## 1) git config
 
 git config list (listar todos los comandos configurables)
@@ -9,5 +9,5 @@ git config --global user.email email@email.com (configura el correo electrónico
 
 git config core.editor "nano" (configura el editor por defecto)
 
-## git init
+## 2) git init
 git init (inicializa un nuevo repositorio en el directorio actual)
