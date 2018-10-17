@@ -11,3 +11,11 @@ git config core.editor "nano" (configura el editor por defecto)
 
 ## 2) git init
 git init (inicializa un nuevo repositorio en el directorio actual)
+
+## 3) git clone
+git clone https://github.com/TatyPerson/PruebasConGit.git (clona el repositorio indicado en el directorio actual)
+
+## 4) git add
+git add . (agrega todos los archivos nuevos al index)
+
+git add NombreFichero.ext (agrega el archivo indicado al index)
