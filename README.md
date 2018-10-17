@@ -42,6 +42,7 @@ git commit --amend (cambiar mensaje del commit)
 ## 7) git stash
 ``` 
 git stash (guarda los cambios de ficheros que no se quieren enviar a commit temporalmente)
+git stash pop (deshace el comando git stash)
 ``` 
 
 ## 8) git rm
