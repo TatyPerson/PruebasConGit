@@ -102,6 +102,10 @@ git diff (lista de todos los conflictos presentes en el repositorio)
 ## 17) git tag
 ``` 
 git tag 1.1.0 etiquetaCommit (poner etiqueta al commit indicado)
+
+git tag (listar todas las etiquetas existentes)
+
+git push origin 1.1.0 (subir etiqueta al repositorio remoto)
 ``` 
 
 ## 18) git log
