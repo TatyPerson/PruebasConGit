@@ -1,2 +1,3 @@
-# PruebasConGit
-Repositorio para pruebas iniciales con Git para la asignatura DSS
+# Principales comandos Git
+## 1) git config
+
