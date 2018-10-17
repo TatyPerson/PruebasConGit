@@ -74,6 +74,10 @@ git tag 1.1.0 etiquetaCommit (poner etiqueta al commit indicado)
 ## 18) git log
 git log (visualizar el histórico completo de commits)
 
+git log -3 (visualizar los 3 commits más recientes)
+
 ## 19) git reset
 git reset --hard HEAD (resetea todos los cambios locales del directorio de trabajo)
+
+git reset HEAD NombreArchivo.ext (resetear todos los cambios en el archivo indicado)
 
